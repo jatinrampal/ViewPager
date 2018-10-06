@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/6f34e38fd314f355ece68bf0b3ddeb22/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c7155c3f5a9e0661eb6953ed0108fed8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jatin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3ffc9b4376386ed28243805357c29ce/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/26d81e9db8b9ef701964a68882fa1af0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/01dd458ee993449cdc24ecd4e556257f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/60e528ed63199e0d0bb9f892caa58b89/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d822dc489bca3e1428a7804589bc8088/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/41ef5567c9f5897de79029446a423117/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b30c8b5ca25b301b8379f7c76735e286/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:1-25:12
+	package
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:2:5-47
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/6f34e38fd314f355ece68bf0b3ddeb22/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/6f34e38fd314f355ece68bf0b3ddeb22/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c7155c3f5a9e0661eb6953ed0108fed8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c7155c3f5a9e0661eb6953ed0108fed8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jatin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3ffc9b4376386ed28243805357c29ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jatin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3ffc9b4376386ed28243805357c29ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/26d81e9db8b9ef701964a68882fa1af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/26d81e9db8b9ef701964a68882fa1af0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/01dd458ee993449cdc24ecd4e556257f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/01dd458ee993449cdc24ecd4e556257f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/60e528ed63199e0d0bb9f892caa58b89/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/60e528ed63199e0d0bb9f892caa58b89/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d822dc489bca3e1428a7804589bc8088/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d822dc489bca3e1428a7804589bc8088/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/41ef5567c9f5897de79029446a423117/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/41ef5567c9f5897de79029446a423117/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b30c8b5ca25b301b8379f7c76735e286/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b30c8b5ca25b301b8379f7c76735e286/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:10:5-23:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/6f34e38fd314f355ece68bf0b3ddeb22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/6f34e38fd314f355ece68bf0b3ddeb22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c7155c3f5a9e0661eb6953ed0108fed8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c7155c3f5a9e0661eb6953ed0108fed8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jatin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3ffc9b4376386ed28243805357c29ce/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/jatin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f3ffc9b4376386ed28243805357c29ce/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/26d81e9db8b9ef701964a68882fa1af0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/26d81e9db8b9ef701964a68882fa1af0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/01dd458ee993449cdc24ecd4e556257f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/01dd458ee993449cdc24ecd4e556257f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/60e528ed63199e0d0bb9f892caa58b89/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/60e528ed63199e0d0bb9f892caa58b89/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d822dc489bca3e1428a7804589bc8088/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d822dc489bca3e1428a7804589bc8088/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/41ef5567c9f5897de79029446a423117/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/41ef5567c9f5897de79029446a423117/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b30c8b5ca25b301b8379f7c76735e286/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b30c8b5ca25b301b8379f7c76735e286/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.programmingmobile.pageviewer.PageViewActivity
+ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:16:13-61
+	android:name
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:15:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/jatin/Downloads/ViewPagerDemo/app/src/main/AndroidManifest.xml:20:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/6f34e38fd314f355ece68bf0b3ddeb22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.1.aar/6f34e38fd314f355ece68bf0b3ddeb22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c7155c3f5a9e0661eb6953ed0108fed8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.1.aar/c7155c3f5a9e0661eb6953ed0108fed8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/26d81e9db8b9ef701964a68882fa1af0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.1.aar/26d81e9db8b9ef701964a68882fa1af0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/01dd458ee993449cdc24ecd4e556257f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.1.aar/01dd458ee993449cdc24ecd4e556257f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/60e528ed63199e0d0bb9f892caa58b89/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.1.aar/60e528ed63199e0d0bb9f892caa58b89/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d822dc489bca3e1428a7804589bc8088/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.1.aar/d822dc489bca3e1428a7804589bc8088/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/41ef5567c9f5897de79029446a423117/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/41ef5567c9f5897de79029446a423117/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b30c8b5ca25b301b8379f7c76735e286/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.1.aar/b30c8b5ca25b301b8379f7c76735e286/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/ea565f11762304d579b3bc20f5b84c13/AndroidManifest.xml:27:13-51
